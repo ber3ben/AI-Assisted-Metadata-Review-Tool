@@ -1,5 +1,5 @@
 # AI-Assisted-Metadata-Review-Tool
-An AI-assisted content and metadata QA workflow that flags quality issues and produces review-ready fix suggestions at scale.
+An AI-assisted content and metadata QA workflow that flags quality issues and produces review-ready fix suggestions at scale. An evolution of my last Metadata Review Tool.
 ## Overview
 
 This project builds on my last Metadata Review Tool. This tool is a **human-in-the-loop metadata review tool** that audits records from the Internet Archive, flags the common metadata issues, and produces **AI-assisted fix suggestions** with confidence scores and explicit human-review gating.
